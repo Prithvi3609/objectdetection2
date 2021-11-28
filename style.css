@@ -1,0 +1,14 @@
+a
+{
+    font-size: 20px;
+    font-family: cursive;
+    box-shadow: 5px 5px 5px gray;
+}
+body
+{
+  background-size: cover;
+}
+.heading
+{
+  font-size: 24px;
+}

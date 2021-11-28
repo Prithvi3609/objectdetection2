@@ -1,0 +1,21 @@
+body
+{
+    background-size: cover;
+}
+#logout_button
+{
+    float: left;
+}
+#status
+{
+font-size: 18px;
+}
+#number_of_objects
+{
+font-size: 18px;
+}
+canvas
+{
+  box-shadow: 10px 10px 10px gray;
+  border-radius: 10px;
+}
